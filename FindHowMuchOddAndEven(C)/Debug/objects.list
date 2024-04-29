@@ -1,0 +1,3 @@
+"./Src/deneme.o"
+"./Src/main.o"
+"./Startup/startup_stm32l073rztx.o"
